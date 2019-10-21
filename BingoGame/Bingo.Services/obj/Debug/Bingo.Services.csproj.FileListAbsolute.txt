@@ -1,0 +1,9 @@
+D:\TestovueZadaniia\BingoGame\Bingo.Services\bin\Debug\Bingo.Services.dll
+D:\TestovueZadaniia\BingoGame\Bingo.Services\bin\Debug\Bingo.Services.pdb
+D:\TestovueZadaniia\BingoGame\Bingo.Services\bin\Debug\BingoEngine.dll
+D:\TestovueZadaniia\BingoGame\Bingo.Services\bin\Debug\BingoEngine.pdb
+D:\TestovueZadaniia\BingoGame\Bingo.Services\obj\Debug\Bingo.Services.csprojAssemblyReference.cache
+D:\TestovueZadaniia\BingoGame\Bingo.Services\obj\Debug\Bingo.Services.csproj.CoreCompileInputs.cache
+D:\TestovueZadaniia\BingoGame\Bingo.Services\obj\Debug\Bingo.Services.csproj.CopyComplete
+D:\TestovueZadaniia\BingoGame\Bingo.Services\obj\Debug\Bingo.Services.dll
+D:\TestovueZadaniia\BingoGame\Bingo.Services\obj\Debug\Bingo.Services.pdb

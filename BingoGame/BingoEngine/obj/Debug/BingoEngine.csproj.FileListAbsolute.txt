@@ -1,0 +1,6 @@
+D:\TestovueZadaniia\BingoGame\BingoEngine\bin\Debug\BingoEngine.dll
+D:\TestovueZadaniia\BingoGame\BingoEngine\bin\Debug\BingoEngine.pdb
+D:\TestovueZadaniia\BingoGame\BingoEngine\obj\Debug\BingoEngine.csproj.CoreCompileInputs.cache
+D:\TestovueZadaniia\BingoGame\BingoEngine\obj\Debug\BingoEngine.dll
+D:\TestovueZadaniia\BingoGame\BingoEngine\obj\Debug\BingoEngine.pdb
+D:\TestovueZadaniia\BingoGame\BingoEngine\obj\Debug\BingoEngine.csprojAssemblyReference.cache

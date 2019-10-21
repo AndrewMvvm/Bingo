@@ -1,0 +1,13 @@
+D:\TestovueZadaniia\BingoGame\NinjectDI\bin\Debug\NinjectDI.dll
+D:\TestovueZadaniia\BingoGame\NinjectDI\bin\Debug\NinjectDI.pdb
+D:\TestovueZadaniia\BingoGame\NinjectDI\obj\Debug\NinjectDI.csprojAssemblyReference.cache
+D:\TestovueZadaniia\BingoGame\NinjectDI\obj\Debug\NinjectDI.csproj.CoreCompileInputs.cache
+D:\TestovueZadaniia\BingoGame\NinjectDI\obj\Debug\NinjectDI.dll
+D:\TestovueZadaniia\BingoGame\NinjectDI\obj\Debug\NinjectDI.pdb
+D:\TestovueZadaniia\BingoGame\NinjectDI\bin\Debug\BingoEngine.dll
+D:\TestovueZadaniia\BingoGame\NinjectDI\bin\Debug\Ninject.dll
+D:\TestovueZadaniia\BingoGame\NinjectDI\bin\Debug\BingoEngine.pdb
+D:\TestovueZadaniia\BingoGame\NinjectDI\bin\Debug\Ninject.xml
+D:\TestovueZadaniia\BingoGame\NinjectDI\obj\Debug\NinjectDI.csproj.CopyComplete
+D:\TestovueZadaniia\BingoGame\NinjectDI\bin\Debug\Bingo.Services.dll
+D:\TestovueZadaniia\BingoGame\NinjectDI\bin\Debug\Bingo.Services.pdb

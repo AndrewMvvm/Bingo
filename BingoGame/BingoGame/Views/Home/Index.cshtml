@@ -1,0 +1,14 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Bingo game</h2>
+<div class="padding-easy">
+    <div class="padding-easy">
+        @Html.ActionLink("Start new game", "Index", "BingoGame", new { area = "Bingo" }, new { @class = "btn btn-primary" })
+    </div>
+    <div class="padding-easy">
+        @Html.ActionLink("Continue game", "Index", "BingoGame", new { area = "Bingo" , isNewGameSession = false}, new { @class = "btn btn-primary" })
+    </div>
+</div>

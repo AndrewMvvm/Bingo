@@ -1,0 +1,47 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+#bingo-game-content{
+    margin-top:20px;
+}
+
+.match-bingo-value {
+    background-color: #170b63;
+    color:white;
+}
+
+.bingo-value{
+    padding:10px;
+}
+
+.padding-mid{
+    padding:20px;
+}
+
+.padding-easy{
+    padding:5px;
+}
+
+.text-underline{
+    text-decoration:underline;
+}
+
+.win-bingo-value{
+    background-color:forestgreen;
+    color:white;
+}

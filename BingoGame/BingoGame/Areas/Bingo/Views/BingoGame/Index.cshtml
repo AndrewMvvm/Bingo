@@ -1,0 +1,17 @@
+﻿@{
+    ViewBag.Title = "Index";
+    ViewBag.Model = Model;
+    AjaxOptions options = new AjaxOptions
+    {
+        UpdateTargetId = "bingo-content"
+    };
+}
+
+<h2>Bingo Game</h2>
+<div>
+    @Ajax.ActionLink("Roll", "BingoSessionProcessing","BingoGame",null, options, new { @class = "btn btn-primary"})
+</div>
+
+<div id="bingo-content">
+    @Html.Action("BingoSessionProcessing")
+</div>
